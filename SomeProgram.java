@@ -9,4 +9,7 @@ public class SomeProgram
 	public static void manage-rockets() {
 		//TODO
 	}
+	public void manageTheSatellite() {
+		//TODO implement
+	}
 }
